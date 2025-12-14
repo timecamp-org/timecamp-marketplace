@@ -196,5 +196,19 @@
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
         "categories": ["AI", "tool", "featured"],
         "url": "https://github.com/timecamp-org/timecamp-mcp-server"
+    },
+    {
+        "id": "tools-usage-report",
+        "name": "Tools usage report",
+        "author": "TimeCamp SA",
+        "price": "free",
+        "description": "Report showing apps/tools usage across your team in the last 30 days, including underutilized licenses and estimated savings potential.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["report"],
+        "url": "mailto:k.rudnicki+tools-usage-report@timecamp.com",
+        "screens": [
+            "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/tools-usage-report-1.png"
+        ]
     }
 ]

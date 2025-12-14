@@ -22,6 +22,7 @@ JSON schema:
     "update_date": string, // optional, format: YYYY-MM-DD
     "api_url": string, // optional
     "url": string, // optional
+    "screens": string[], // optional, screenshot URLs (png/jpg/webp)
 }
 ```
 
