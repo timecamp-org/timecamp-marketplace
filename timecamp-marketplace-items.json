@@ -210,5 +210,19 @@
         "screens": [
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/tools-usage-report-1.png"
         ]
+    },
+    {
+        "id": "project-portfolio-report",
+        "name": "Project portfolio report",
+        "author": "TimeCamp SA",
+        "price": "free",
+        "description": "Portfolio-style projects report: see total time in timesheets by year (stacked by group/department) and project totals for quick comparison.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["report"],
+        "url": "mailto:k.rudnicki+project-portfolio-report@timecamp.com",
+        "screens": [
+            "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/project-portfolio-report-1.png"
+        ]
     }
 ]
