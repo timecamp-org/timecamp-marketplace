@@ -62,7 +62,7 @@
         "price": "open source",
         "description": "Synchronize users and groups automatically from LDAP directory.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/ldap.png",
+        "icon_url": "https://www.drupal.org/files/project-images/ldap-icon.png",
         "categories": ["integration"],
         "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
