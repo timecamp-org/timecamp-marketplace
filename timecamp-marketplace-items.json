@@ -89,7 +89,7 @@
     },
     {
         "id": "google-data-studio",
-        "name": "Google Data Studio",
+        "name": "Google Data Studio & Big Query",
         "author": "TimeCamp SA",
         "price": "$200 flat fee",  
         "description": "Create reports in Google Data Studio using your TimeCamp data.",
@@ -118,7 +118,7 @@
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/locker.png",
         "categories": ["data pipeline"],
-        "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#5d36732f283933343e36347631323236382f1d293430383e3c302d733e3230"
+        "url": "mailto:k.rudnicki+looker@timecamp.com"
     },
     {
         "id": "timer-button",
@@ -151,7 +151,18 @@
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/twig.png",
         "categories": ["tool"],
-        "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#e48fca9691808a8d878f8dcf8d8a92a4908d898187858994ca878b89"
+        "url": "mailto:k.rudnicki+invoice@timecamp.com"
+    },
+    {
+        "id": "recurring-budgets",
+        "name": "Recurring budgets",
+        "author": "TimeCamp SA",
+        "price": "$200 flat fee",
+        "description": "Set up recurring budgets for projects and clients with automatic resets and notifications.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["tool"],
+        "url": "mailto:k.rudnicki+budgets@timecamp.com"
     },
     {
         "id": "timecamp-mcp-server",
