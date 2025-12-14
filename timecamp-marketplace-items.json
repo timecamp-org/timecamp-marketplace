@@ -1,0 +1,23 @@
+[
+    {
+        "id": "test-marketplace-item",
+        "name": "Awesome Marketplace Item",
+        "author": "TimeCamp SA",
+        "description": "This is a test marketplace item for the TimeCamp Marketplace.",
+        "repo": "test/test-marketplace-item",
+        "icon": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "price": "free",
+        "categories": ["test", "marketplace", "item"],
+        "api_url": "https://api.timecamp.com/v1/test-marketplace-item"
+    },
+    {
+        "id": "test-marketplace-item2",
+        "name": "Awesome Marketplace Item",
+        "author": "TimeCamp SA",
+        "description": "This is a test marketplace item for the TimeCamp Marketplace.",
+        "icon": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "price": "$10/month",
+        "categories": ["test", "marketplace", "item"],
+        "url": "https://www.timecamp.com/pl/"
+    }
+]
