@@ -165,6 +165,28 @@
         "url": "mailto:k.rudnicki+budgets@timecamp.com"
     },
     {
+        "id": "plain-text-timesheet-parser",
+        "name": "Plain text timesheet parser",
+        "author": "TimeCamp SA",
+        "price": "free",
+        "description": "Paste your timesheet as plain text and let AI parse it into TimeCamp time entries.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["AI", "tool"],
+        "url": "mailto:k.rudnicki+timesheet-parser@timecamp.com"
+    },
+    {
+        "id": "timesheet-compliance-assistant",
+        "name": "Timesheet Compliance Assistant",
+        "author": "TimeCamp SA",
+        "price": "free",
+        "description": "Analyze your TimeCamp time entries with AI instructions: categorize activities, highlight gaps/inconsistencies, and suggest improvements.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["AI", "tool"],
+        "url": "mailto:k.rudnicki+timesheet-compliance@timecamp.com"
+    },
+    {
         "id": "timecamp-mcp-server",
         "name": "TimeCamp MCP Server",
         "author": "TimeCamp SA",
