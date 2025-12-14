@@ -14,10 +14,12 @@ JSON schema:
     "name": string,
     "author": string,
     "description": string,
+    "release_date": string, // format: YYYY-MM-DD
     "icon_url": string,
-    "categories": string[], // any of "report", "plugin", "tool", "integration"
+    "categories": string[], // any of "report", "plugin", "tool", "integration", "featured"
     "repo": string, // optional
     "price": string, // optional
+    "update_date": string, // optional, format: YYYY-MM-DD
     "api_url": string, // optional
     "url": string, // optional
 }

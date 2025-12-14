@@ -1,84 +1,31 @@
 [
     {
-        "id": "test-marketplace-item",
-        "name": "Awesome Marketplace Item",
-        "author": "TimeCamp SA",
-        "description": "This is a test marketplace item for the TimeCamp Marketplace.",
-        "repo": "test/test-marketplace-item",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
-        "price": "free",
-        "categories": ["plugin"],
-        "api_url": "https://api.timecamp.com/v1/test-marketplace-item"
-    },
-    {
-        "id": "test-marketplace-item2",
-        "name": "Awesome Marketplace Item",
-        "author": "TimeCamp SA",
-        "description": "This is a test marketplace item for the TimeCamp Marketplace.",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
-        "price": "$10/month",
-        "categories": ["plugin"],
-        "url": "https://www.timecamp.com/pl/"
-    },
-    {
         "id": "sage-hris",
         "name": "Sage HRIS",
         "author": "Sage",
         "description": "Synchronise time off, national holidays, users, groups automatically from Sage HRIS to TimeCamp. Don’t waste time on manual entry.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/sage.png",
         "categories": ["integration"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Sage+HRIS"
-    },
-    {
-        "id": "jira-service-management",
-        "name": "Jira Service Management",
-        "author": "Hakon Software",
-        "description": "Integrate with Jira Service Management and track time to your requests in TimeCamp. Contact our partner Hakon Software to learn more.",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/jira-service-management.png",
-        "categories": ["integration"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Jira+Service+Management"
-    },
-    {
-        "id": "perfex-crm",
-        "name": "Perfex CRM",
-        "author": "Grupa Niko",
-        "description": "Sync projects and tasks between Perfex CRM and TimeCamp. Contact our partner Grupa Niko to learn more.",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/perfex.png",
-        "categories": ["integration"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Perfex+CRM"
-    },
-    {
-        "id": "fakturownia",
-        "name": "Fakturownia",
-        "author": "Hakon Software",
-        "description": "Need to connect TimeCamp with Fakturownia, Poland's leading online accounting system? Contact our partner Hakon Software to learn more.",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/fakturownia.png",
-        "categories": ["integration"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Fakturownia"
-    },
-    {
-        "id": "wfirma",
-        "name": "wFirma",
-        "author": "Team Solution",
-        "description": "Integrate TimeCamp with wFirma, one of the most popular online accounting systems in Poland. Contact our partner Team Solution to learn more.",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/wfirma.png",
-        "categories": ["integration"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=wFirma"
     },
     {
         "id": "global-holidays",
         "name": "Global Holidays",
         "author": "TimeCamp SA",
         "description": "Synchronise national holidays from CSV files as time entries in TimeCamp.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/calendar.png",
         "categories": ["integration"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Global+Holidays"
     },
     {
-        "id": "redmine",
-        "name": "Redmine",
+        "id": "sync-projects-using-python",
+        "name": "Sync projects using Python",
         "author": "TimeCamp SA",
-        "description": "Synchronise projects, tasks and time entries using Python script.",
+        "price": "open source",
+        "description": "Synchronise projects, tasks and time entries using Python script (Redmine, Azure examples).",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/greenbranding/integrations/redmine.png",
         "categories": ["integration"],
         "url": "https://github.com/timecamp-org/script-timecamp-projects-sync"
@@ -87,27 +34,32 @@
         "id": "bamboehr",
         "name": "BambooHR",
         "author": "TimeCamp SA",
+        "price": "open source",
         "description": "Synchronize user structure and employee id into TimeCamp.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/greenbranding/integrations/bamboo-hr.png",
         "categories": ["integration"],
-        "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#3d56134f485953545e5654165f5c505f52527d495450585e5c504d135e5250"
+        "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
     {
         "id": "microsoft-entra",
         "name": "Microsoft Entra",
         "author": "TimeCamp SA",
+        "price": "open source",
         "description": "Synchronize users and groups automatically from Microsoft Entra (Azure AD) with TimeCamp.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/microsoft-entra.png",
         "categories": ["integration"],
-        "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#157e3b6760717b7c767e7c3e746f60677055617c7870767478653b767a78"
+        "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
     {
         "id": "microsoft-power-bi",
         "name": "Microsoft Power BI",
         "author": "TimeCamp SA",
         "description": "Get beautiful dashboards in Microsoft Power BI from TimeCamp data using public REST API.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/powerbi.png",
-        "categories": ["report", "featured"],
+        "categories": ["data pipeline", "featured"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Microsoft+Power+BI"
     },
     {
@@ -115,8 +67,9 @@
         "name": "Tableau",
         "author": "TimeCamp SA",
         "description": "Connect your TimeCamp data with Tableau.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/tableau-software.png",
-        "categories": ["report"],
+        "categories": ["data pipeline"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Tableau"
     },
     {
@@ -124,42 +77,38 @@
         "name": "Google Data Studio",
         "author": "TimeCamp SA",
         "description": "Create reports in Google Data Studio using your TimeCamp data.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/google_data_studio.png",
-        "categories": ["report"],
+        "categories": ["data pipeline"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Google+Data+Studio"
     },
     {
         "id": "sync-timecamp-data-warehouse",
         "name": "Sync TimeCamp with data warehouse",
         "author": "TimeCamp SA",
-        "description": "Send all your up-to-date TimeCamp data and reports to your warehouse like MySQL, Postgres, Redshift and more...",
+        "price": "open source",
+        "description": "Send all your up-to-date TimeCamp data and reports to your warehouse like MySQL, Postgres, Redshift, Big Query and more...",
+        "release_date": "2025-12-14",
         "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
-        "categories": ["report", "featured"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Sync+TimeCamp+with+your+data+warehouse"
+        "categories": ["data pipeline", "featured"],
+        "url": "https://github.com/timecamp-org/good-enough-timecamp-data-pipeline"
     },
     {
         "id": "looker",
         "name": "Looker",
         "author": "TimeCamp SA",
         "description": "Build custom reports in Google Looker based on TimeCamp data.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/locker.png",
-        "categories": ["report"],
+        "categories": ["data pipeline"],
         "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#5d36732f283933343e36347631323236382f1d293430383e3c302d733e3230"
-    },
-    {
-        "id": "screen-time",
-        "name": "Screen Time",
-        "author": "TimeCamp Partner",
-        "description": "Get total time worked today in MacOS taskbar visible from anywhere.",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/electron.png",
-        "categories": ["tool"],
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Electron"
     },
     {
         "id": "timer-button",
         "name": "Timer Button",
         "author": "TimeCamp SA",
         "description": "Add a button to any website or web application to start a timer quickly.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
         "categories": ["tool"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Timer+Button"
@@ -169,8 +118,9 @@
         "name": "Client Portal",
         "author": "TimeCamp SA",
         "description": "Share beautiful reports with additional comments with your clients.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["tool", "featured"],
+        "categories": ["tool"],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Client+Portal"
     },
     {
@@ -178,8 +128,20 @@
         "name": "Custom invoice template",
         "author": "TimeCamp SA",
         "description": "Customize TimeCamp invoice with beautiful twig templates.",
+        "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/twig.png",
         "categories": ["tool"],
         "url": "https://www.timecamp.com/cdn-cgi/l/email-protection#e48fca9691808a8d878f8dcf8d8a92a4908d898187858994ca878b89"
+    },
+    {
+        "id": "timecamp-mcp-server",
+        "name": "TimeCamp MCP Server",
+        "author": "TimeCamp SA",
+        "price": "open source",
+        "description": "AI assistant integration for TimeCamp. Add, retrieve, update and delete time entries using Claude Desktop or other MCP-compatible AI tools.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["AI", "tool", "featured"],
+        "url": "https://github.com/timecamp-org/timecamp-mcp-server"
     }
 ]
