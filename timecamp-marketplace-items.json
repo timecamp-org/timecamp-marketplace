@@ -26,8 +26,8 @@
         "id": "sync-projects-using-python",
         "name": "Sync projects using Python",
         "author": "TimeCamp SA",
-        "price": "Open source",
-        "description": "Sync projects, tasks, and time entries with a lightweight Python script (examples for Redmine and Azure DevOps).",
+        "price": "open source",
+        "description": "Synchronise projects, tasks and time entries using Python script (Redmine, Azure examples).",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/greenbranding/integrations/redmine.png",
         "categories": ["integration"],
@@ -227,5 +227,16 @@
         "screens": [
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/project-portfolio-report-1.png"
         ]
+    },
+    {
+        "id": "time-entries-csv-importer",
+        "name": "Time entries CSV importer",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "Import time entries to TimeCamp from CSV. Required columns: email, duration. At least one of start/end must be present.",
+        "release_date": "2025-12-14",
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/icons8-import-csv-80.png",
+        "categories": ["tool"],
+        "url": "https://timecamp-data-importer.timecamp-s-a.workers.dev"
     }
 ]
