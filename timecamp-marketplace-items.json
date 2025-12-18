@@ -678,5 +678,21 @@
         "icon_url": "https://app.timecamp.com/res/css/images/int/int-xero.svg",
         "categories": ["integration"],
         "url": "https://app.timecamp.com/addons/xero"
+    },
+    {
+        "id": "timecamp-desktop-timesheet",
+        "name": "AI Desktop Timesheet for Windows and Mac",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "A focused, privacy-first, AI-first time tracker that makes adding, editing, and reviewing time effortless.",
+        "release_date": "2025-11-30",
+        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "categories": ["AI", "tool", "featured"],
+        "url": "https://www.timecamp.com/time-tracking/ai-time-tracker/",
+        "screens": [
+            "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-1.png",
+            "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-2.png",
+            "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-3.png"
+        ]
     }
 ]
