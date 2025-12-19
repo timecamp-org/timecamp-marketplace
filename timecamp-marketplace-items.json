@@ -694,5 +694,16 @@
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-2.png",
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-3.png"
         ]
+    },
+    {
+        "id": "timesheet-lock",
+        "name": "Timesheet Lock",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "Bulk lock or delete timesheet locks for Cloud and Enterprise TimeCamp accounts.",
+        "release_date": "2025-12-19",
+        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "categories": ["tool"],
+        "url": "https://lock-timesheet.timecamp.io"
     }
 ]
