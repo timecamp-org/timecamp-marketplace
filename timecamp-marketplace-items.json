@@ -241,7 +241,7 @@
     },
     {
         "id": "ical-personal",
-        "name": "Calendar",
+        "name": "iCal Calendar",
         "author": "TimeCamp SA",
         "price": "Free",
         "description": "Use any iCal calendar (e.g. Microsoft Outlook, Apple Calendar, HCL Domino, etc.) to synchronize your events as part of the timesheet every day",
