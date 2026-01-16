@@ -4,10 +4,12 @@
         "name": "Sage HRIS",
         "author": "Sage",
         "price": "$400 flat fee",
-        "description": "Automatically sync time off, public holidays, users, and groups from Sage HRIS to TimeCamp—no more manual updates.",
+        "description": "Automatically sync time off, public holidays, users, and groups from Sage HRIS to TimeCamp\u2014no more manual updates.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/sage.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Sage+HRIS"
     },
     {
@@ -19,7 +21,9 @@
         "release_date": "2025-11-10",
         "update_date": "2025-12-12",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/calendar.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Global+Holidays"
     },
     {
@@ -30,7 +34,9 @@
         "description": "Synchronise projects, tasks and time entries using Python script (Redmine, Azure examples).",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/greenbranding/integrations/redmine.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://github.com/timecamp-org/script-timecamp-projects-sync"
     },
     {
@@ -41,7 +47,9 @@
         "description": "Sync your org structure and employee IDs from BambooHR to TimeCamp.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/greenbranding/integrations/bamboo-hr.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
     {
@@ -52,7 +60,9 @@
         "description": "Automatically sync users and groups from Microsoft Entra (Azure AD) to TimeCamp.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/microsoft-entra.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
     {
@@ -63,7 +73,9 @@
         "description": "Automatically sync users and groups from your LDAP directory to TimeCamp.",
         "release_date": "2025-12-14",
         "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/ldap-icon.png",
-        "categories": ["integration"],
+        "categories": [
+            "integration"
+        ],
         "url": "https://github.com/timecamp-org/good-enough-timecamp-scim-integrations"
     },
     {
@@ -74,7 +86,10 @@
         "description": "Build Power BI dashboards on top of TimeCamp data via the public REST API.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/powerbi.png",
-        "categories": ["data pipeline", "featured"],
+        "categories": [
+            "data pipeline",
+            "featured"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Microsoft+Power+BI"
     },
     {
@@ -86,7 +101,9 @@
         "release_date": "2025-12-10",
         "update_date": "2025-12-12",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/tableau-software.png",
-        "categories": ["data pipeline"],
+        "categories": [
+            "data pipeline"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Tableau"
     },
     {
@@ -94,10 +111,12 @@
         "name": "Google Looker Studio & BigQuery",
         "author": "TimeCamp SA",
         "price": "$200 flat fee",
-        "description": "Create shareable Looker Studio reports using your TimeCamp data—optionally exporting datasets to BigQuery.",
+        "description": "Create shareable Looker Studio reports using your TimeCamp data\u2014optionally exporting datasets to BigQuery.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/google_data_studio.png",
-        "categories": ["data pipeline"],
+        "categories": [
+            "data pipeline"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Google+Data+Studio"
     },
     {
@@ -108,7 +127,10 @@
         "description": "Continuously replicate TimeCamp data and reports to your warehouse (Postgres, MySQL, Redshift, BigQuery, SQL Server, and more).",
         "release_date": "2025-12-14",
         "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
-        "categories": ["data pipeline", "featured"],
+        "categories": [
+            "data pipeline",
+            "featured"
+        ],
         "url": "https://github.com/timecamp-org/good-enough-timecamp-data-pipeline"
     },
     {
@@ -120,7 +142,9 @@
         "release_date": "2025-12-10",
         "update_date": "2025-12-12",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/locker.png",
-        "categories": ["data pipeline"],
+        "categories": [
+            "data pipeline"
+        ],
         "url": "mailto:k.rudnicki+looker@timecamp.com"
     },
     {
@@ -128,10 +152,12 @@
         "name": "Timer Button",
         "author": "TimeCamp SA",
         "price": "$200 flat fee",
-        "description": "Embed a “Start timer” button in any website or web app so users can start tracking time in one click.",
+        "description": "Embed a \u201cStart timer\u201d button in any website or web app so users can start tracking time in one click.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Timer+Button"
     },
     {
@@ -142,7 +168,9 @@
         "description": "Share client-friendly reports with notes, comments, and the context behind the numbers.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfdogp-fkZe0BjjvLTLTSWR35nIzAmqTJwCQM4I63frRAaRIw/viewform?usp=pp_url&entry.1271928430=Client+Portal"
     },
     {
@@ -153,7 +181,9 @@
         "description": "Style TimeCamp invoices with Twig templates to match your brand.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/twig.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "mailto:k.rudnicki+invoice@timecamp.com"
     },
     {
@@ -164,7 +194,9 @@
         "description": "Set recurring budgets for projects and clients with automatic resets and alerts.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "mailto:k.rudnicki+budgets@timecamp.com"
     },
     {
@@ -175,7 +207,10 @@
         "description": "Paste a plain-text timesheet and let AI turn it into TimeCamp time entries.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["AI", "tool"],
+        "categories": [
+            "AI",
+            "tool"
+        ],
         "url": "mailto:k.rudnicki+timesheet-parser@timecamp.com"
     },
     {
@@ -186,7 +221,10 @@
         "description": "Use AI to audit time entries: categorize work, spot gaps or inconsistencies, and get actionable suggestions.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["AI", "tool"],
+        "categories": [
+            "AI",
+            "tool"
+        ],
         "url": "mailto:k.rudnicki+timesheet-compliance@timecamp.com"
     },
     {
@@ -197,7 +235,11 @@
         "description": "Connect MCP-compatible AI tools to TimeCamp to create, read, update, and delete time entries.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["AI", "tool", "featured"],
+        "categories": [
+            "AI",
+            "tool",
+            "featured"
+        ],
         "url": "https://github.com/timecamp-org/timecamp-mcp-server"
     },
     {
@@ -205,10 +247,12 @@
         "name": "Tools usage report",
         "author": "TimeCamp SA",
         "price": "Free",
-        "description": "See the last 30 days of app and tool usage across your team—spot underused licenses and estimate potential savings.",
+        "description": "See the last 30 days of app and tool usage across your team\u2014spot underused licenses and estimate potential savings.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["report"],
+        "categories": [
+            "report"
+        ],
         "url": "mailto:k.rudnicki+tools-usage-report@timecamp.com",
         "screens": [
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/tools-usage-report-1.png"
@@ -222,7 +266,9 @@
         "description": "Compare projects at a glance: yearly timesheet totals stacked by group/department plus per-project totals.",
         "release_date": "2025-12-14",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["report"],
+        "categories": [
+            "report"
+        ],
         "url": "mailto:k.rudnicki+project-portfolio-report@timecamp.com",
         "screens": [
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/project-portfolio-report-1.png"
@@ -236,7 +282,9 @@
         "description": "Import time entries to TimeCamp from CSV. Required columns: email, duration. At least one of start/end must be present.",
         "release_date": "2025-12-14",
         "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/icons8-import-csv-80.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "https://timecamp-data-importer.timecamp-s-a.workers.dev"
     },
     {
@@ -246,8 +294,10 @@
         "price": "Free",
         "description": "Use any iCal calendar (e.g. Microsoft Outlook, Apple Calendar, HCL Domino, etc.) to synchronize your events as part of the timesheet every day",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-ical-personal-user.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-ical-personal-user.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/ical"
     },
     {
@@ -257,8 +307,10 @@
         "price": "Free",
         "description": "Synchronize your Google Calendar entries as time entries visible on your timesheet",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-googlecalendar-personal-user.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-googlecalendar-personal-user.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/googlecalendar"
     },
     {
@@ -268,8 +320,10 @@
         "price": "Free",
         "description": "Synchronize your Outlook Calendar entries as time entries visible on your timesheet",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-outlookcalendar-personal-user.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-outlookcalendar-personal-user.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/outlookcalendar"
     },
     {
@@ -279,8 +333,10 @@
         "price": "Included in premium plan",
         "description": "Manage Outlook Calendar integrations",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-outlookcalendar-personal-admin.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-outlookcalendar-personal-admin.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/outlookcalendar/admin"
     },
     {
@@ -290,8 +346,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects and tasks thanks to Notion integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-notion.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-notion.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/notion"
     },
     {
@@ -301,8 +359,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects and tasks thanks to ActiveCollab integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-activecollab.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-activecollab.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/activecollab"
     },
     {
@@ -312,8 +372,10 @@
         "price": "Included in premium plan",
         "description": "Increase team productivity measuring how much time they spend on singular activities from Asana thanks to TimeCamp integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-asana.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-asana.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/asana"
     },
     {
@@ -323,8 +385,10 @@
         "price": "Included in premium plan",
         "description": "Synchronize all of your tasks from Basecamp 2 with TimeCamp and track your working time",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-basecamp.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-basecamp.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/basecamp"
     },
     {
@@ -334,8 +398,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your todo lists and basecamps thanks to Basecamp 3 integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-basecamp3.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-basecamp3.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/basecamp3"
     },
     {
@@ -345,8 +411,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects thanks to Breeze integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-breeze.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-breeze.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/breeze"
     },
     {
@@ -356,8 +424,10 @@
         "price": "Included in premium plan",
         "description": "Increase team productivity measuring how much time they spend on singular activities from ClickUp thanks to TimeCamp integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-clickup.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-clickup.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/clickup"
     },
     {
@@ -367,8 +437,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your docs and tasks thanks to Dropbox Paper integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-dropboxpaper.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-dropboxpaper.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/dropboxpaper"
     },
     {
@@ -378,8 +450,10 @@
         "price": "Included in premium plan",
         "description": "Manage Google Calendar integrations",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-googlecalendar-personal-admin.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-googlecalendar-personal-admin.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/googlecalendar/admin"
     },
     {
@@ -389,8 +463,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects and tasks thanks to MeisterTask integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-meistertask.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-meistertask.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/meistertask"
     },
     {
@@ -400,8 +476,10 @@
         "price": "Included in premium plan",
         "description": "Manage iCal calendars (e.g. Microsoft Outlook, Apple Calendar, HCL Domino, etc.) in your organization to import users events into timesheets",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-ical-personal-admin.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-ical-personal-admin.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/app#/settings/integrations/ical/admin"
     },
     {
@@ -411,8 +489,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your pulses, boards, and users thanks to the Monday.com integration and manage your projects and tasks in an easy visual way.",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-monday.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-monday.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/monday"
     },
     {
@@ -422,8 +502,10 @@
         "price": "Included in premium plan",
         "description": "Arrange online workspace forming the structure of projects, teams and workflows and synchronize them with TimeCamp",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-podio.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-podio.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/podio"
     },
     {
@@ -433,8 +515,10 @@
         "price": "Included in premium plan",
         "description": "Measure the time-consumption of each task and invoice your customers accurately thanks to Easy Redmine integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-redmine.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-redmine.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/redmine"
     },
     {
@@ -444,8 +528,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your tasks thanks to Smartsheet integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-smartsheet.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-smartsheet.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/smartsheet"
     },
     {
@@ -455,8 +541,10 @@
         "price": "Included in premium plan",
         "description": "Let your team focus on their tasks and track time in every process thanks to Targetprocess integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-targetprocess.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-targetprocess.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/targetprocess"
     },
     {
@@ -466,8 +554,10 @@
         "price": "Included in premium plan",
         "description": "Co-operate and track time together thanks to Teamwork integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-teamwork.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-teamwork.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/teamwork"
     },
     {
@@ -477,8 +567,10 @@
         "price": "Included in premium plan",
         "description": "Manage and share your daily tasks using the Todoist application and start tracking time with us",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-todoist.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-todoist.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/todoist"
     },
     {
@@ -488,8 +580,10 @@
         "price": "Included in premium plan",
         "description": "Migrate your account from Toggl and start tracking time with us",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-toggl.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-toggl.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/toggl"
     },
     {
@@ -499,8 +593,10 @@
         "price": "Included in premium plan",
         "description": "Organize your projects and ideas into online boards with Trello and track time thanks to TimeCamp integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-trello.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-trello.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/trello"
     },
     {
@@ -510,8 +606,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your tasks thanks to Wrike integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-wrike_v4.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-wrike_v4.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/wrike_v4"
     },
     {
@@ -521,8 +619,10 @@
         "price": "Included in premium plan",
         "description": "You can do so much more with TimeCamp by connecting it to the other apps using Zapier",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-zapier.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-zapier.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/zapier"
     },
     {
@@ -532,8 +632,10 @@
         "price": "Included in premium plan",
         "description": "Let your team track time against tickets it has to solve in thanks to Freshdesk integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-freshdesk.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-freshdesk.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/freshdesk"
     },
     {
@@ -543,8 +645,10 @@
         "price": "Included in premium plan",
         "description": "See how much time your agents need to solve tickets from Zendesk thanks to TimeCamp tracking tools",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-zendesk.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-zendesk.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/zendesk"
     },
     {
@@ -554,8 +658,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects thanks to Azure DevOps integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-vst.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-vst.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/vst"
     },
     {
@@ -565,8 +671,10 @@
         "price": "Included in premium plan",
         "description": "Track time spent in your GitHub repositories by using TimeCamp tracking tools",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-github.png",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-github.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/github"
     },
     {
@@ -576,8 +684,10 @@
         "price": "Included in premium plan",
         "description": "Track time spent in your GitLab repositories by using TimeCamp tracking tools",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-gitlab.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-gitlab.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/gitlab"
     },
     {
@@ -587,8 +697,10 @@
         "price": "Included in premium plan",
         "description": "Assess time for projects and issues you are working on thanks to Jira Cloud integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-jira_cloud.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-jira_cloud.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/jira_cloud"
     },
     {
@@ -598,8 +710,10 @@
         "price": "Included in premium plan",
         "description": "Assess time for projects and issues you are working on thanks to Jira Server or Data Center integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-jira_server.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-jira_server.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/jira_server"
     },
     {
@@ -609,8 +723,10 @@
         "price": "Included in premium plan",
         "description": "Stay more focused on your tasks, set your priorities easily and log working hours thanks to Pivotal Tracker integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-pivotaltracker.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-pivotaltracker.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/pivotaltracker"
     },
     {
@@ -618,10 +734,12 @@
         "name": "MS Teams",
         "author": "TimeCamp SA",
         "price": "Included in premium plan",
-        "description": "Track time you spend on teamwork and project collaboration directly in MS Teams — chats, tasks, group conversations, planning and organizing work & more.",
+        "description": "Track time you spend on teamwork and project collaboration directly in MS Teams \u2014 chats, tasks, group conversations, planning and organizing work & more.",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-msteams.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-msteams.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/msteams"
     },
     {
@@ -631,8 +749,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your Slack chat channels thanks to TimeCamp integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-slack.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-slack.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/slack"
     },
     {
@@ -642,8 +762,10 @@
         "price": "Included in premium plan",
         "description": "Improve efficiency of your sales-related activities from Insightly and track their time-consumption on TimeCamp",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-insightly.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-insightly.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/insightly"
     },
     {
@@ -653,8 +775,10 @@
         "price": "Included in premium plan",
         "description": "Track time directly from your projects thanks to Salesforce integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-salesforce.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-salesforce.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/salesforce"
     },
     {
@@ -664,8 +788,10 @@
         "price": "Included in premium plan",
         "description": "Manage your finances in QuickBooks and invoice your clients accurately thanks to TimeCamp integration",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-quickbooks.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-quickbooks.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/quickbooks"
     },
     {
@@ -675,8 +801,10 @@
         "price": "Included in premium plan",
         "description": "Administer your Company in Xero. Invoice your clients and track their working hours in TimeCamp",
         "release_date": "2025-12-14",
-        "icon_url": "https://app.timecamp.com/res/css/images/int/int-xero.svg",
-        "categories": ["integration"],
+        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-xero.png",
+        "categories": [
+            "integration"
+        ],
         "url": "https://app.timecamp.com/addons/xero"
     },
     {
@@ -687,7 +815,11 @@
         "description": "A focused, privacy-first, AI-first time tracker that makes adding, editing, and reviewing time effortless.",
         "release_date": "2025-11-30",
         "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
-        "categories": ["AI", "tool", "featured"],
+        "categories": [
+            "AI",
+            "tool",
+            "featured"
+        ],
         "url": "https://www.timecamp.com/time-tracking/ai-time-tracker/",
         "screens": [
             "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/screens/ai-desktop-timesheet-1.png",
@@ -703,7 +835,9 @@
         "description": "Bulk lock or delete timesheet locks for Cloud and Enterprise TimeCamp accounts.",
         "release_date": "2025-12-19",
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
-        "categories": ["tool"],
+        "categories": [
+            "tool"
+        ],
         "url": "https://lock-timesheet.timecamp.io"
     }
 ]
