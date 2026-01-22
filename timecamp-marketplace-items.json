@@ -872,7 +872,7 @@
         "name": "TimeCamp Chrome Extension",
         "author": "TimeCamp SA",
         "price": "Free",
-        "description": "Track time directly from your browser with the TimeCamp Chrome extension. One-click timer buttons for web apps, automatic time tracking, and seamless integration with your workflow.",
+        "description": "Track time directly from your browser with the TimeCamp Chrome extension. One-click timer buttons for web apps, automatic time tracking, and seamless integration with your workflow. Supported apps: Asana, Podio, Trello, Google Docs, Insightly, Google Mail, Clickup, Monday, YouTrack, Notion, Todoist, Pipedrive, Rememberthemilk, OpenProject, Google Keep, Hubspot, Odoo, Freshservice, Wrike, TickTick, OnShape, Teamwork Projects, Habitica, Bitrix24, PagerDuty, Toodledo, Fibery, Zammad, DokuWiki, Redbooth, Osticket, Unfuddle, Codebasehq, Zube, MiniCRM, Sifterapp, Spidergap, Kantree, Focuster, Husky Marketing Planner, Sprintly.",
         "release_date": "2026-01-22",
         "icon_url": "lucide:chrome",
         "categories": [
