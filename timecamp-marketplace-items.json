@@ -126,7 +126,7 @@
         "price": "Open source",
         "description": "Continuously replicate TimeCamp data and reports to your warehouse (Postgres, MySQL, Redshift, BigQuery, SQL Server, and more).",
         "release_date": "2025-12-14",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "icon_url": "lucide:database",
         "categories": [
             "data pipeline",
             "featured"
@@ -167,7 +167,7 @@
         "price": "$200 flat fee",
         "description": "Share client-friendly reports with notes, comments, and the context behind the numbers.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:users",
         "categories": [
             "tool"
         ],
@@ -193,7 +193,7 @@
         "price": "$200 flat fee",
         "description": "Set recurring budgets for projects and clients with automatic resets and alerts.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:repeat",
         "categories": [
             "tool"
         ],
@@ -206,7 +206,7 @@
         "price": "Free",
         "description": "Paste a plain-text timesheet and let AI turn it into TimeCamp time entries.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:file-text",
         "categories": [
             "AI",
             "tool"
@@ -220,7 +220,7 @@
         "price": "Free",
         "description": "Use AI to audit time entries: categorize work, spot gaps or inconsistencies, and get actionable suggestions.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:shield-check",
         "categories": [
             "AI",
             "tool"
@@ -234,7 +234,7 @@
         "price": "Open source",
         "description": "Connect MCP-compatible AI tools to TimeCamp to create, read, update, and delete time entries.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:server",
         "categories": [
             "AI",
             "tool"
@@ -264,7 +264,7 @@
         "price": "Free",
         "description": "Compare projects at a glance: yearly timesheet totals stacked by group/department plus per-project totals.",
         "release_date": "2025-12-14",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:folder-kanban",
         "categories": [
             "report"
         ],
@@ -813,7 +813,7 @@
         "price": "Free",
         "description": "A focused, privacy-first, AI-first time tracker that makes adding, editing, and reviewing time effortless.",
         "release_date": "2025-11-30",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "icon_url": "lucide:clock",
         "categories": [
             "AI",
             "tool",
@@ -833,7 +833,7 @@
         "price": "Free",
         "description": "Bulk lock or delete timesheet locks for Cloud and Enterprise TimeCamp accounts.",
         "release_date": "2025-12-19",
-        "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
+        "icon_url": "lucide:lock",
         "categories": [
             "tool"
         ],
@@ -846,7 +846,7 @@
         "price": "Free",
         "description": "Track time on the go with TimeCamp's iOS mobile app. Start/stop timers, add time entries, and review your timesheet from your iPhone or iPad.",
         "release_date": "2026-01-22",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "icon_url": "lucide:smartphone",
         "categories": [
             "tool",
             "featured"
@@ -860,7 +860,7 @@
         "price": "Free",
         "description": "Track time on the go with TimeCamp's Android mobile app. Start/stop timers, add time entries, and review your timesheet from your Android device.",
         "release_date": "2026-01-22",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "icon_url": "lucide:smartphone",
         "categories": [
             "tool",
             "featured"
@@ -874,7 +874,7 @@
         "price": "Free",
         "description": "Track time directly from your browser with the TimeCamp Chrome extension. One-click timer buttons for web apps, automatic time tracking, and seamless integration with your workflow.",
         "release_date": "2026-01-22",
-        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "icon_url": "lucide:chrome",
         "categories": [
             "tool",
             "featured"
