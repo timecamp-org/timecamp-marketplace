@@ -237,8 +237,7 @@
         "icon_url": "https://cdn-y.timecamp.com/img/integrations/timecamp-new.png",
         "categories": [
             "AI",
-            "tool",
-            "featured"
+            "tool"
         ],
         "url": "https://github.com/timecamp-org/timecamp-mcp-server"
     },
@@ -839,5 +838,47 @@
             "tool"
         ],
         "url": "https://lock-timesheet.timecamp.io"
+    },
+    {
+        "id": "mobile-app-ios",
+        "name": "TimeCamp Mobile App for iOS",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "Track time on the go with TimeCamp's iOS mobile app. Start/stop timers, add time entries, and review your timesheet from your iPhone or iPad.",
+        "release_date": "2026-01-22",
+        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "categories": [
+            "tool",
+            "featured"
+        ],
+        "url": "https://apps.apple.com/us/app/timecamp-time-tracker/id881820002/"
+    },
+    {
+        "id": "mobile-app-android",
+        "name": "TimeCamp Mobile App for Android",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "Track time on the go with TimeCamp's Android mobile app. Start/stop timers, add time entries, and review your timesheet from your Android device.",
+        "release_date": "2026-01-22",
+        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "categories": [
+            "tool",
+            "featured"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.timecamp.mobile"
+    },
+    {
+        "id": "chrome-plugin",
+        "name": "TimeCamp Chrome Extension",
+        "author": "TimeCamp SA",
+        "price": "Free",
+        "description": "Track time directly from your browser with the TimeCamp Chrome extension. One-click timer buttons for web apps, automatic time tracking, and seamless integration with your workflow.",
+        "release_date": "2026-01-22",
+        "icon_url": "https://www.timecamp.com/pl/img/timecamp-redesign/companies/timecamp.png",
+        "categories": [
+            "tool",
+            "featured"
+        ],
+        "url": "https://chromewebstore.google.com/detail/timecamp-timer/ohbkdjmhoegleofcohdjagmcnkimfdaa"
     }
 ]
