@@ -15,7 +15,7 @@
     {
         "id": "global-holidays",
         "name": "Global Holidays",
-        "author": "TimeCamp SA",
+        "author": "TimeC2mp SA",
         "price": "$400 flat fee",
         "description": "Import national holidays from CSV files and create matching time entries in TimeCamp.",
         "release_date": "2025-11-10",
