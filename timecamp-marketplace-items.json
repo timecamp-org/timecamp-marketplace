@@ -716,19 +716,6 @@
         "url": "https://app.timecamp.com/addons/jira_server"
     },
     {
-        "id": "pivotaltracker",
-        "name": "Pivotal Tracker",
-        "author": "TimeCamp SA",
-        "price": "Included in premium plan",
-        "description": "Stay more focused on your tasks, set your priorities easily and log working hours thanks to Pivotal Tracker integration",
-        "release_date": "2025-12-14",
-        "icon_url": "https://raw.githubusercontent.com/timecamp-org/timecamp-marketplace/main/icons/int-pivotaltracker.png",
-        "categories": [
-            "integration"
-        ],
-        "url": "https://app.timecamp.com/addons/pivotaltracker"
-    },
-    {
         "id": "msteams",
         "name": "MS Teams",
         "author": "TimeCamp SA",
