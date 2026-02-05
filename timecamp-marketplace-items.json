@@ -242,6 +242,19 @@
         "url": "https://github.com/timecamp-org/timecamp-mcp-server"
     },
     {
+        "id": "timecamp-cli",
+        "name": "TimeCamp CLI",
+        "author": "TimeCamp SA",
+        "price": "Open source",
+        "description": "Simple CLI app to perform TimeCamp API actions from the terminal.",
+        "release_date": "2026-02-05",
+        "icon_url": "lucide:terminal",
+        "categories": [
+            "tool"
+        ],
+        "url": "https://github.com/timecamp-org/timecamp-cli"
+    },
+    {
         "id": "tools-usage-report",
         "name": "Tools usage report",
         "author": "TimeCamp SA",
