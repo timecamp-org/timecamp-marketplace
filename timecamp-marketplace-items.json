@@ -849,7 +849,8 @@
         "icon_url": "lucide:smartphone",
         "categories": [
             "tool",
-            "featured"
+            "featured",
+            "mobile app"
         ],
         "url": "https://apps.apple.com/us/app/timecamp-time-tracker/id881820002/"
     },
@@ -863,7 +864,8 @@
         "icon_url": "lucide:smartphone",
         "categories": [
             "tool",
-            "featured"
+            "featured",
+            "mobile app"
         ],
         "url": "https://play.google.com/store/apps/details?id=com.timecamp.mobile"
     },
