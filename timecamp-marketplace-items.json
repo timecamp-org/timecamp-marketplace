@@ -888,7 +888,7 @@
         "name": "TimeCamp LLM Skill",
         "author": "TimeCamp SA",
         "price": "Open source",
-        "description": "Use the TimeCamp LLM skill to track time spent on tasks with TimeCamp and analyze time data.",
+        "description": "Use the TimeCamp LLM skill to track time spent on tasks with TimeCamp and analyze time data; it's good for opneclaw workflows.",
         "release_date": "2026-02-14",
         "icon_url": "lucide:bot",
         "categories": [
