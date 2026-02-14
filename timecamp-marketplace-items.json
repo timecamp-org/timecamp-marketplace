@@ -882,5 +882,19 @@
             "featured"
         ],
         "url": "https://chromewebstore.google.com/detail/timecamp-timer/ohbkdjmhoegleofcohdjagmcnkimfdaa"
+    },
+    {
+        "id": "timecamp-llm-skill",
+        "name": "TimeCamp LLM Skill",
+        "author": "TimeCamp SA",
+        "price": "Open source",
+        "description": "Use the TimeCamp LLM skill to track time spent on tasks with TimeCamp and analyze time data.",
+        "release_date": "2026-02-14",
+        "icon_url": "lucide:bot",
+        "categories": [
+            "AI",
+            "tool"
+        ],
+        "url": "https://github.com/timecamp-org/timecamp-skill"
     }
 ]
